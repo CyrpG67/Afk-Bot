@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "in1.msdhosting.tech",
+    "port": 25628,
     "version": "1.19.3"
   },
 
